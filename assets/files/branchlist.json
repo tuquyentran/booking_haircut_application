@@ -1,0 +1,2004 @@
+{
+    "branch": [
+        {
+            "id": 1,
+            "image": "4rau-Q1.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 1",
+            "anotherName": "4Rau Quận 1",
+            "address": "77 Yersin, Quận 1, TP.HCM",
+            "type": 1,
+            "services": [
+                {
+                    "id": 1,
+                    "name": "Cắt tóc nam + Gội",
+                    "id_type": 1,
+                    "time": 45,
+                    "price": 280000
+                },
+                {
+                    "id": 2,
+                    "name": "Cạo",
+                    "id_type": 1,
+                    "time": 30,
+                    "price": 150000
+                },
+                {
+                    "id": 3,
+                    "name": "Combo",
+                    "id_type": 1,
+                    "time": 80,
+                    "price": 400000
+                },
+                {
+                    "id": 4,
+                    "name": "Gội + Tạo kiểu",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 150000
+                },
+                {
+                    "id": 5,
+                    "name": "KID CUT",
+                    "id_type": 1,
+                    "time": 60,
+                    "price": 180000
+                }                
+            ],
+            "employees": [
+                {
+                    "id": 1,
+                    "image": "Q1-vanminh.png",
+                    "name": "Cao Văn Minh",
+                    "nickname": "Minh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 2,
+                    "image": "Q1-nhi.png",
+                    "name": "Nguyễn Võ Uyên Nhi",
+                    "nickname": "Nhi",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 3,
+                    "image": "Q1-phuqui.png",
+                    "name": "Trần Phú Quí",
+                    "nickname": "Phú Quí",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 4,
+                    "image": "Q1-thang.png",
+                    "name": "Đỗ Minh Thắng",
+                    "nickname": "Thắng",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 5,
+                    "image": "Q1-thanhphu.png",
+                    "name": "Trần Thanh Phú",
+                    "nickname": "Thanh Phú",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 6,
+                    "image": "",
+                    "name": "Quan Sì Lay",
+                    "nickname": "Quan Sì Lay",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "image": "4rau-Q3.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 3",
+            "anotherName": "4Rau Quận 3",
+            "address": "262c Điện Biên Phủ, P. Võ Thị Sáu, Quận 3",
+            "type": 1,
+            "services": [
+                {
+                    "id": 1,
+                    "name": "Cắt tóc nam + Gội",
+                    "id_type": 1,
+                    "time": 45,
+                    "price": 280000
+                },
+                {
+                    "id": 2,
+                    "name": "Cạo",
+                    "id_type": 1,
+                    "time": 30,
+                    "price": 150000
+                },
+                {
+                    "id": 3,
+                    "name": "Combo",
+                    "id_type": 1,
+                    "time": 80,
+                    "price": 400000
+                },
+                {
+                    "id": 4,
+                    "name": "Gội + Tạo kiểu",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 150000
+                },
+                {
+                    "id": 6,
+                    "name": "Hair Tattoo",
+                    "id_type": 1,
+                    "time": 0,
+                    "price": 280000
+                },
+                {
+                    "id": 5,
+                    "name": "KID CUT",
+                    "id_type": 1,
+                    "time": 60,
+                    "price": 180000
+                }, 
+                {
+                    "id": 11,
+                    "name": "Nhuộm Đen/Nâu",
+                    "id_type": 2,
+                    "time": 0,
+                    "price": 250000
+                }, 
+                {
+                    "id": 12,
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 60,
+                    "price": 800000
+                }, 
+                {
+                    "id": 13,
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 0,
+                    "price": 400000
+                }, 
+                {
+                    "id": 16,
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 550000
+                }, 
+                {
+                    "id": 17,
+                    "name": "Uốn giấy bạc/Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 0,
+                    "price": 700000
+                }, 
+                {
+                    "id": 18,
+                    "name": "Uốn Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 0,
+                    "price": 1200000
+                }, 
+                {
+                    "id": 19,
+                    "name": "ÉP SIDE CHÚ TƯ",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 170000
+                }                
+            ],
+            "employees": [
+                {
+                    "id": 7,
+                    "image": "Q3-tuyennguyen.png",
+                    "name": "Nguyễn Phương Tuyến",
+                    "nickname": "Tuyến Nguyễn",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 8,
+                    "image": "Q3-thuan.png",
+                    "name": "Võ Tấn Thuận",
+                    "nickname": "Thuận",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 9,
+                    "image": "Q3-xuanbao.png",
+                    "name": "Trần Xuân Bảo",
+                    "nickname": "Xuân Bảo",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 10,
+                    "image": "Q3-phucloi.png",
+                    "name": "Nguyễn Phúc Lợi",
+                    "nickname": "Phúc Lợi",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 11,
+                    "image": "Q3-linh.png",
+                    "name": "Mai Linh",
+                    "nickname": "Linh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 12,
+                    "image": "Q3-tuan.png",
+                    "name": "Hàn Hoàng Tuân",
+                    "nickname": "Tuân",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 13,
+                    "image": "",
+                    "name": "Trịnh Trần Phương Tuấn",
+                    "nickname": "J97",
+                    "birthday": "12/04/1997",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "image": "4rau-Q2.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 2",
+            "anotherName": "4Rau Quận 2",
+            "address": "37 Xuân Thủy, P. Thảo Điền, Quận 2",
+            "type": 0,
+            "services": [
+                {
+                    "id": 7,
+                    "name": "Cắt tóc nam",
+                    "id_type": 1,
+                    "time": 25,
+                    "price": 90000
+                },
+                {
+                    "id": 8,
+                    "name": "Gội",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 70000
+                },
+                {
+                    "id": 9,
+                    "name": "Cạo khăn nóng lạnh",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 90000
+                },
+                {
+                    "id": 19,
+                    "name": "Xả tóc",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 30000
+                },
+                {
+                    "id": 14,
+                    "name": "Nhuộm nâu",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 270000
+                },
+                {
+                    "id": 15,
+                    "name": "Nhuộm đen",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 170000
+                }, 
+                {
+                    "id": 12,
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 400000
+                }, 
+                {
+                    "id": 13,
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 200000
+                }, 
+                {
+                    "id": 16,
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 300000
+                }, 
+                {
+                    "id": 20,
+                    "name": "Uốn giấy bạc (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 450000
+                }, 
+                {
+                    "id": 21,
+                    "name": "Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 799000
+                }, 
+                {
+                    "id": 22,
+                    "name": "Ép side (2 bên)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 170000
+                }, 
+                {
+                    "id": 23,
+                    "name": "Uốn Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 440000
+                }                      
+            ],
+            "employees": [
+                {
+                    "id": 14,
+                    "image": "Q2-tu.png",
+                    "name": "Từ Thanh Tú",
+                    "nickname": "Tú",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 15,
+                    "image": "Q2-tai.png",
+                    "name": "Nguyễn Tấn Tài",
+                    "nickname": "Tài",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 16,
+                    "image": "Q2-hoang.png",
+                    "name": "Nguyễn Huy Hoàng",
+                    "nickname": "Hoàng",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 17,
+                    "image": "Q2-phatthanh.png",
+                    "name": "Trần Phát Thành",
+                    "nickname": "Phát Thành",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 18,
+                    "image": "Q2-nguyentin.png",
+                    "name": "Nguyễn Trần Trung Tín",
+                    "nickname": "Nguyễn Tín",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 19,
+                    "image": "Q2-ducanh.png",
+                    "name": "Huỳnh Đức Anh",
+                    "nickname": "Đức Anh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 20,
+                    "image": "Q2-dongnguyen.png",
+                    "name": "Hà Đông Nguyên",
+                    "nickname": "Đông Nguyên",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 21,
+                    "image": "Q2-ductrong.png",
+                    "name": "Trần Đức Trọng",
+                    "nickname": "Đức Trọng",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 22,
+                    "image": "",
+                    "name": "Tina Thảo Thi",
+                    "nickname": "Peekaboo",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "image": "4rau-Q4.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 4",
+            "anotherName": "4Rau Quận 4",
+            "address": "360B Bến Vân Đồn, P.1, Quận 4",
+            "type": 0,
+            "services": [
+                {
+                    "id": 7,
+                    "name": "Cắt tóc nam",
+                    "id_type": 1,
+                    "time": 25,
+                    "price": 90000
+                },
+                {
+                    "id": 8,
+                    "name": "Gội",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 70000
+                },
+                {
+                    "id": 9,
+                    "name": "Cạo khăn nóng lạnh",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 90000
+                },
+                {
+                    "id": 19,
+                    "name": "Xả tóc",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 30000
+                },
+                {
+                    "id": 14,
+                    "name": "Nhuộm nâu",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 270000
+                },
+                {
+                    "id": 15,
+                    "name": "Nhuộm đen",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 170000
+                }, 
+                {
+                    "id": 12,
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 400000
+                }, 
+                {
+                    "id": 13,
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 200000
+                }, 
+                {
+                    "id": 16,
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 300000
+                }, 
+                {
+                    "id": 20,
+                    "name": "Uốn giấy bạc (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 450000
+                }, 
+                {
+                    "id": 21,
+                    "name": "Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 799000
+                }, 
+                {
+                    "id": 22,
+                    "name": "Ép side (2 bên)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 170000
+                }, 
+                {
+                    "id": 23,
+                    "name": "Uốn Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 440000
+                }                      
+            ],
+            "employees": [
+                {
+                    "id": 23,
+                    "image": "Q4-chivinh.png",
+                    "name": "Đỗ Chí Vĩnh",
+                    "nickname": "Chí Vĩnh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 24,
+                    "image": "Q4-tantai.png",
+                    "name": "Trần Tấn Tài",
+                    "nickname": "Tài",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 25,
+                    "image": "Q4-giahuy.png",
+                    "name": "Nguyễn Gia Huy",
+                    "nickname": "Gia Huy",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 26,
+                    "image": "Q4-congkien.png",
+                    "name": "Hà Nguyễn Công Kiên",
+                    "nickname": "Công Kiên",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 27,
+                    "image": "Q4-lap.png",
+                    "name": "Vương Quốc Lập",
+                    "nickname": "Lập",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 28,
+                    "image": "Q4-quynhnhu.png",
+                    "name": "Nguyễn Ái Quỳnh Như",
+                    "nickname": "Quỳnh Như",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 29,
+                    "image": "Q4-ducnguyen.png",
+                    "name": "Đỗ Đức Nguyên",
+                    "nickname": "Đức Nguyên",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 30,
+                    "image": "Q4-nhulon.png",
+                    "name": "Phan Ngọc Như",
+                    "nickname": "Như Phan",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 31,
+                    "image": "",
+                    "name": "Trần Tú Quyên",
+                    "nickname": "Quyên Khùng",
+                    "birthday": "06/09/2003",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "image": "4rau-Q7.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 7",
+            "anotherName": "4Rau Quận 7",
+            "address": "SCENIC VALLEY 2 - Block C002, KĐT Phú Mỹ Hưng, Quận 7",
+            "type": 0,
+            "services": [
+                {
+                    "id": 7,
+                    "name": "Cắt tóc nam",
+                    "id_type": 1,
+                    "time": 25,
+                    "price": 90000
+                },
+                {
+                    "id": 8,
+                    "name": "Gội",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 70000
+                },
+                {
+                    "id": 9,
+                    "name": "Cạo khăn nóng lạnh",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 90000
+                },
+                {
+                    "id": 19,
+                    "name": "Xả tóc",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 30000
+                },
+                {
+                    "id": 14,
+                    "name": "Nhuộm nâu",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 270000
+                },
+                {
+                    "id": 15,
+                    "name": "Nhuộm đen",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 170000
+                }, 
+                {
+                    "id": 12,
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 400000
+                }, 
+                {
+                    "id": 13,
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 200000
+                }, 
+                {
+                    "id": 16,
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 300000
+                }, 
+                {
+                    "id": 20,
+                    "name": "Uốn giấy bạc (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 450000
+                }, 
+                {
+                    "id": 21,
+                    "name": "Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 799000
+                }, 
+                {
+                    "id": 22,
+                    "name": "Ép side (2 bên)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 170000
+                }, 
+                {
+                    "id": 23,
+                    "name": "Uốn Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 440000
+                }                      
+            ],
+            "employees": [
+                {
+                    "id": 32,
+                    "image": "Q7-gin.png",
+                    "name": "Nguyễn Tuấn Kiệt",
+                    "nickname": "Gin",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 33,
+                    "image": "Q7-dat.png",
+                    "name": "Nguyễn Tấn Đạt",
+                    "nickname": "Đạt",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 34,
+                    "image": "Q7-hoa.png",
+                    "name": "Đinh Nguyễn Bách Hóa",
+                    "nickname": "Hóa",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 35,
+                    "image": "",
+                    "name": "Mai Anh Tú",
+                    "nickname": "Tú",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 36,
+                    "image": "",
+                    "name": "Nguyễn Phi Trường",
+                    "nickname": "Trường",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 37,
+                    "image": "",
+                    "name": "Hàn Nhật Huy",
+                    "nickname": "Huy",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 38,
+                    "image": "Q7-nhathiep.png",
+                    "name": "Tống Nhật Hiệp",
+                    "nickname": "Nhật Hiệp",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 39,
+                    "image": "",
+                    "name": "Nguyễn Hoàng Cường",
+                    "nickname": "Hoàng Cường",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 40,
+                    "image": "Q7-tri.png",
+                    "name": "Nguyễn Minh Trí",
+                    "nickname": "Trí",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 41,
+                    "image": "",
+                    "name": "Ba Gà",
+                    "nickname": "Phan Tấn Trung",
+                    "birthday": "06/09/1989",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "image": "4rau-Q9.png",
+            "name": "4Rau Barber Shop - Chi nhánh Vinhomes Quận 9",
+            "anotherName": "4Rau Vinhomes Quận 9",
+            "address": "S5.03, Vinhomes Grand Park, Quận 9",
+            "type": 0,
+            "services": [
+                {
+                    "name": "Cắt tóc nam",
+                    "id_type": 1,
+                    "time": 25,
+                    "price": 90000
+                },
+                {
+                    "name": "Gội",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 70000
+                },
+                {
+                    "name": "Cạo khăn nóng lạnh",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 90000
+                },
+                {
+                    "name": "Xả tóc",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 30000
+                },
+                {
+                    "name": "Nhuộm nâu",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 270000
+                },
+                {
+                    "name": "Nhuộm đen",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 400000
+                }, 
+                {
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 200000
+                }, 
+                {
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 300000
+                }, 
+                {
+                    "name": "Uốn giấy bạc (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 450000
+                }, 
+                {
+                    "name": "Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 799000
+                }, 
+                {
+                    "name": "Ép side (2 bên)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Uốn Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 440000
+                }        
+            ],
+            "employees": [
+                {
+                    "id": 42,
+                    "image": "Q9-vanphuc.png",
+                    "name": "Trần Vạn Phúc",
+                    "nickname": "Vạn Phúc",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 43,
+                    "image": "Q9-dangkhoa.png",
+                    "name": "Trần Đăng Khoa",
+                    "nickname": "Đăng Khoa",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 44,
+                    "image": "Q9-kimhoang.png",
+                    "name": "Mai Kim Hoàng",
+                    "nickname": "Kim Hoàng",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 45,
+                    "image": "Q9-trungtin.png",
+                    "name": "Phạm Trung Tín",
+                    "nickname": "Trung Tín",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 46,
+                    "image": "Q9-dinhvu.png",
+                    "name": "Dương Đình Vũ",
+                    "nickname": "Đình Vũ",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 47,
+                    "image": "Q9-tantrieu.png",
+                    "name": "Trương Tấn Triệu",
+                    "nickname": "Tấn Triệu",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 48,
+                    "image": "Q9-vanthinh.png",
+                    "name": "Hồ Văn Thịnh",
+                    "nickname": "Văn Thịnh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 49,
+                    "image": "Q9-camlansuc.png",
+                    "name": "Cẩm Lan",
+                    "nickname": "Cẩm Lan",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "image": "4rau-Q10.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 10",
+            "anotherName": "4Rau Quận 10",
+            "address": "634 Điện Biên Phủ, P.11, Quận 10",
+            "type": 0,
+            "services": [
+                {
+                    "name": "Cắt tóc nam",
+                    "id_type": 1,
+                    "time": 25,
+                    "price": 90000
+                },
+                {
+                    "name": "Gội",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 70000
+                },
+                {
+                    "name": "Cạo khăn nóng lạnh",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 90000
+                },
+                {
+                    "name": "Xả tóc",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 30000
+                },
+                {
+                    "name": "Nhuộm nâu",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 270000
+                },
+                {
+                    "name": "Nhuộm đen",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 400000
+                }, 
+                {
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 200000
+                }, 
+                {
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 300000
+                }, 
+                {
+                    "name": "Uốn giấy bạc (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 450000
+                }, 
+                {
+                    "name": "Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 799000
+                }, 
+                {
+                    "name": "Ép side (2 bên)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Uốn Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 440000
+                }                  
+            ],
+            "employees": [
+                {
+                    "id": 50,
+                    "image": "Q10-khai.png",
+                    "name": "Đỗ Khải",
+                    "nickname": "Khải",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 51,
+                    "image": "Q10-canh.png",
+                    "name": "Bùi Thanh Cảnh",
+                    "nickname": "Cảnh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 52,
+                    "image": "Q10-tam.png",
+                    "name": "Đoàn Minh Tâm",
+                    "nickname": "Tâm",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 53,
+                    "image": "Q10-chi.png",
+                    "name": "Phương Mỹ Chi",
+                    "nickname": "Chi",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 54,
+                    "image": "Q10-thuonghai.png",
+                    "name": "Lý Thượng Hải",
+                    "nickname": "Thượng Hải",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 55,
+                    "image": "Q10-dung.png",
+                    "name": "Nguyễn Hoàng Dung",
+                    "nickname": "Hoàng Dung",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 56,
+                    "image": "Q10-giabao.png",
+                    "name": "Lương Gia Bảo",
+                    "nickname": "Gia Bảo",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 57,
+                    "image": "Q10-khoa.png",
+                    "name": "Võ Tấn Khoa",
+                    "nickname": "Khoa",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 58,
+                    "image": "",
+                    "name": "Nguyễn Thị Ngọc Linh",
+                    "nickname": "Nguyễn Thị Ngọc Linh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "image": "4rau-QBT.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Bình Thạnh",
+            "anotherName": "4Rau Quận Bình Thạnh",
+            "address": "100 Bùi Đình Tuý, P.12, Bình Thạnh",
+            "type": 0,
+            "services": [
+                {
+                    "name": "Cắt tóc nam",
+                    "id_type": 1,
+                    "time": 25,
+                    "price": 90000
+                },
+                {
+                    "name": "Gội",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 70000
+                },
+                {
+                    "name": "Cạo khăn nóng lạnh",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 90000
+                },
+                {
+                    "name": "Xả tóc",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 30000
+                },
+                {
+                    "name": "Nhuộm nâu",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 270000
+                },
+                {
+                    "name": "Nhuộm đen",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 400000
+                }, 
+                {
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 200000
+                }, 
+                {
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 300000
+                }, 
+                {
+                    "name": "Uốn giấy bạc (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 450000
+                }, 
+                {
+                    "name": "Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 799000
+                }, 
+                {
+                    "name": "Ép side (2 bên)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Uốn Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 440000
+                }                
+            ],
+            "employees": [
+                {
+                    "id": 59,
+                    "image": "QBT-thienduong.png",
+                    "name": "Lại Thiên Đường",
+                    "nickname": "Thiên Đường",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 60,
+                    "image": "QBT-kiem.png",
+                    "name": "Nguyễn Bảo Kiếm",
+                    "nickname": "Kiếm",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 61,
+                    "image": "QBT-vu.png",
+                    "name": "Dương Vũ",
+                    "nickname": "Vũ",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 62,
+                    "image": "QBT-ngochuynh.png",
+                    "name": "Lương Ngọc Huynh",
+                    "nickname": "Ngọc Huynh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 63,
+                    "image": "QBT-khoi.png",
+                    "name": "Trần Tuấn Khôi",
+                    "nickname": "Khôi",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 64,
+                    "image": "QBT-hieu.png",
+                    "name": "Tô Anh Hiếu",
+                    "nickname": "Hiếu",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 65,
+                    "image": "",
+                    "name": "Trần Trúc Linh",
+                    "nickname": "Trúc Link",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 66,
+                    "image": "QBT-huuduy.png",
+                    "name": "Phan Hữu Duy",
+                    "nickname": "Hữu Duy",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 67,
+                    "image": "",
+                    "name": "Cô Hai Báo",
+                    "nickname": "Cô Hai Báo",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "image": "4rau-QGV.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Gò Vấp",
+            "anotherName": "4Rau Quận Gò Vấp",
+            "address": "843 Phan Văn Trị, P.7, Gò Vấp",
+            "type": 0,
+            "services": [
+                {
+                    "name": "Cắt tóc nam",
+                    "id_type": 1,
+                    "time": 25,
+                    "price": 90000
+                },
+                {
+                    "name": "Gội",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 70000
+                },
+                {
+                    "name": "Cạo khăn nóng lạnh",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 90000
+                },
+                {
+                    "name": "Xả tóc",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 30000
+                },
+                {
+                    "name": "Nhuộm nâu",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 270000
+                },
+                {
+                    "name": "Nhuộm đen",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 400000
+                }, 
+                {
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 200000
+                }, 
+                {
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 300000
+                }, 
+                {
+                    "name": "Uốn giấy bạc (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 450000
+                }, 
+                {
+                    "name": "Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 799000
+                }, 
+                {
+                    "name": "Ép side (2 bên)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Uốn Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 440000
+                }                       
+            ],
+            "employees": [
+                {
+                    "id": 68,
+                    "image": "QGV-duem.png",
+                    "name": "Trần Phương Dũ",
+                    "nickname": "Dũ Em",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 69,
+                    "image": "QGV-mytien.png",
+                    "name": "Hà Mỹ Tiên",
+                    "nickname": "Mỹ Tiên",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 70,
+                    "image": "QGV-thanhviet.png",
+                    "name": "Đoàn Thanh Việt",
+                    "nickname": "Thanh Việt",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 71,
+                    "image": "QGV-lamtruong.png",
+                    "name": "Lâm Minh Trường",
+                    "nickname": "Lâm Trường",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 72,
+                    "image": "QGV-thienlong.png",
+                    "name": "Đỗ Thiên Long",
+                    "nickname": "Thiên Long",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 73,
+                    "image": "QGV-nhattien.png",
+                    "name": "Cao Nhật Tiên",
+                    "nickname": "Nhật Tiên",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 74,
+                    "image": "QGV-tanmanh.png",
+                    "name": "Tấn Mạnh",
+                    "nickname": "Tấn Mạnh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 75,
+                    "image": "",
+                    "name": "Miko Lan Trinh",
+                    "nickname": "Miko Lan Trinh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "image": "4rau-QTB.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Tân Bình",
+            "anotherName": "4Rau Quận Tân Bình",
+            "address": "81 Bình Giã, P.13, Tân Bình",
+            "type": 0,
+            "services": [
+                {
+                    "name": "Cắt tóc nam",
+                    "id_type": 1,
+                    "time": 25,
+                    "price": 90000
+                },
+                {
+                    "name": "Gội",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 70000
+                },
+                {
+                    "name": "Cạo khăn nóng lạnh",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 90000
+                },
+                {
+                    "name": "Xả tóc",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 30000
+                },
+                {
+                    "name": "Nhuộm nâu",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 270000
+                },
+                {
+                    "name": "Nhuộm đen",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 400000
+                }, 
+                {
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 200000
+                }, 
+                {
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 300000
+                }, 
+                {
+                    "name": "Uốn giấy bạc (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 450000
+                }, 
+                {
+                    "name": "Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 799000
+                }, 
+                {
+                    "name": "Ép side (2 bên)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Uốn Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 440000
+                }                         
+            ],
+            "employees": [
+                {
+                    "id": 76,
+                    "image": "QTB-vic.png",
+                    "name": "Cao Y Việt",
+                    "nickname": "VIC",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 77,
+                    "image": "QTB-caoduy.png",
+                    "name": "Cao Bá Duy",
+                    "nickname": "Cao Duy",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 78,
+                    "image": "QTB-trungphong.png",
+                    "name": "Đỗ Trung Phong",
+                    "nickname": "Trung Phong",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 79,
+                    "image": "QTB-huuhoa.png",
+                    "name": "Hữu Anh Hòa",
+                    "nickname": "Hữu Hòa",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 80,
+                    "image": "QTB-vinhhai.png",
+                    "name": "Vĩnh Hải",
+                    "nickname": "Vĩnh Hải",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 81,
+                    "image": "QTB-binh.png",
+                    "name": "Doãn Chí Bình",
+                    "nickname": "Bình",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 82,
+                    "image": "QTB-tuan.png",
+                    "name": "Lương Từ Ân",
+                    "nickname": "Từ Ân",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 83,
+                    "image": "",
+                    "name": "Cô Minh Hiếu",
+                    "nickname": "Cô Minh Hiếu",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "image": "4rau-QTP.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Tân Phú",
+            "anotherName": "4Rau Quận Tân Phú",
+            "address": "603a Lũy Bán Bích, Hoà Thanh, Tân Phú",
+            "type": 0,
+            "services": [
+                {
+                    "name": "Cắt tóc nam",
+                    "id_type": 1,
+                    "time": 25,
+                    "price": 90000
+                },
+                {
+                    "name": "Gội",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 70000
+                },
+                {
+                    "name": "Cạo khăn nóng lạnh",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 90000
+                },
+                {
+                    "name": "Xả tóc",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 30000
+                },
+                {
+                    "name": "Nhuộm nâu",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 270000
+                },
+                {
+                    "name": "Nhuộm đen",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 400000
+                }, 
+                {
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 200000
+                }, 
+                {
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 300000
+                }, 
+                {
+                    "name": "Uốn giấy bạc (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 450000
+                }, 
+                {
+                    "name": "Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 799000
+                }, 
+                {
+                    "name": "Ép side (2 bên)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 170000
+                }, 
+                {
+                    "name": "Uốn Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 440000
+                }                  
+            ],
+            "employees": [
+                {
+                    "id": 84,
+                    "image": "QTP-thanhtam.png",
+                    "name": "Phạm Hồng Thành Tâm",
+                    "nickname": "Thành Tâm",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 85,
+                    "image": "QTP-vanhong.png",
+                    "name": "Nguyễn Văn Hồng",
+                    "nickname": "Văn Hồng",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 86,
+                    "image": "QTP-mai.png",
+                    "name": "Đỗ Xuân Mai",
+                    "nickname": "Mai",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 87,
+                    "image": "QTP-hoanglong.png",
+                    "name": "Phạm Hoàng Long",
+                    "nickname": "Hoàng Long",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 88,
+                    "image": "QTP-vanhau.png",
+                    "name": "Đoàn Văn Hậu",
+                    "nickname": "Văn Hậu",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 89,
+                    "image": "QTP-vankhanh.png",
+                    "name": "Lương Văn Khanh",
+                    "nickname": "Văn Khanh",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 90,
+                    "image": "QTP-quochuy.png",
+                    "name": "Đỗ Quốc Huy",
+                    "nickname": "Quốc Huy",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 0,
+                    "state": 1,
+                    "role": 0
+                },
+                {
+                    "id": 91,
+                    "image": "",
+                    "name": "Cô Ba Vàng Ngọc",
+                    "nickname": "Cô Ba Vàng Ngọc",
+                    "birthday": "06/09/1996",
+                    "phone": "0948562481",
+                    "gender": 1,
+                    "state": 1,
+                    "role": 1
+                }
+            ]
+        }    
+    ]
+}

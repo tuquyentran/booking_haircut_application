@@ -1,0 +1,103 @@
+{
+    "receipt": [
+        {
+            "id": 1,
+            "branch": 6,
+            "customer": 1,
+            "employee": 42,
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "tip": 10000.0,
+            "total": 170000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": 2,
+            "branch": 6,
+            "customer": 2,
+            "employee": 43,
+            "name": "Nguyễn Mạnh Hiếu",
+            "phone": "0938029266",
+            "tip": 20000.0,
+            "total": 180000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": 3,
+            "branch": 6,
+            "customer": 3,
+            "employee": 44,
+            "name": "Cao Võ Nhựt Quan",
+            "phone": "0899515691",
+            "tip": 0.0,
+            "total": 160000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": 4,
+            "branch": 6,
+            "customer": 4,
+            "employee": 45,
+            "name": "Nguyễn Thành Đạt",
+            "phone": "0918944965",
+            "tip": 50000.0,
+            "total": 210000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": 5,
+            "branch": 6,
+            "customer": 5,
+            "employee": 48,
+            "name": "Lương Bá Khang",
+            "phone": "0918944965",
+            "tip": 100000.0,
+            "total": 650000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": 6,
+            "branch": 6,
+            "customer": 1,
+            "employee": 42,
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "tip": 30000.0,
+            "total": 620000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": 7,
+            "branch": 6,
+            "customer": 2,
+            "employee": 43,
+            "name": "Nguyễn Mạnh Hiếu",
+            "phone": "0938029266",
+            "tip": 20000.0,
+            "total": 180000,
+            "dateCreate": "12:07, 27/07/2024"
+        },
+        {
+            "id": 8,
+            "branch": 6,
+            "customer": 2,
+            "employee": 43,
+            "name": "Nguyễn Mạnh Hiếu",
+            "phone": "0938029266",
+            "tip": 20000.0,
+            "total": 180000,
+            "dateCreate": "12:07, 27/07/2024"
+        },
+        {
+            "id": 9,
+            "branch": 6,
+            "customer": 2,
+            "employee": 43,
+            "name": "Nguyễn Mạnh Hiếu",
+            "phone": "0938029266",
+            "tip": 20000.0,
+            "total": 180000,
+            "dateCreate": "12:07, 27/07/2024"
+        }
+    ]
+}

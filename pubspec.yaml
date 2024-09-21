@@ -1,0 +1,45 @@
+name: booking_haircut_application
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.0
+  carousel_slider_plus: ^6.0.0
+  shared_preferences: ^2.1.0
+  dotted_line: ^3.2.2
+  smooth_page_indicator: ^1.1.0
+  flutter_rating_bar: ^4.0.1
+  photo_view: ^0.14.0
+  curved_navigation_bar: ^1.0.6
+  provider: ^6.0.5
+  image_picker: ^0.8.4+4
+  easy_date_timeline: ^1.0.3
+  ticket_widget: ^0.0.1
+  sqflite: ^2.2.6
+  path: ^1.8.2
+  youtube_player_flutter: ^9.0.1
+  url_launcher: ^6.3.0
+  url_launcher_android: ^6.3.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  path_provider: ^2.1.3
+  flutter_inappwebview: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/files/
+    - assets/database/
+    - assets/images/employees/
+    - assets/images/haircut/
+    - assets/images/shop/

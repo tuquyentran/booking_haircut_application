@@ -1,0 +1,44 @@
+{
+    "customer": [
+        {
+            "id": 1,
+            "image": "",
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "email": "ouyin2803@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": 2,
+            "image": "",
+            "name": "Nguyễn Mạnh Hiếu",
+            "phone": "0938029266",
+            "email": "hiubin@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": 3,
+            "image": "",
+            "name": "Cao Võ Nhựt Quan",
+            "phone": "0918944965",
+            "email": "quansilay@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": 4,
+            "image": "",
+            "name": "Nguyễn Thành Đạt",
+            "phone": "0918944965",
+            "email": "datg@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": 5,
+            "image": "",
+            "name": "Lương Bá Khang",
+            "phone": "0918944965",
+            "email": "bakhang@gmail.com",
+            "password": "123456"
+        }
+    ]
+}

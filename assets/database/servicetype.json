@@ -1,0 +1,16 @@
+{
+    "servicetype": [
+        {
+            "id": 1,
+            "name": "CẮT - GỘI - CẠO"
+        },
+        {
+            "id": 2,
+            "name": "NHUỘM"
+        },
+        {
+            "id": 3,
+            "name": "PREMLOCK-UỐN"
+        }
+    ]
+}

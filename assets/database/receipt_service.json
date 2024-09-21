@@ -1,0 +1,124 @@
+{
+    "receipt_service": [
+        {
+            "receipt": 1,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "receipt": 1,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "receipt": 2,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "receipt": 2,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "receipt": 3,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "receipt": 3,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "receipt": 4,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "receipt": 4,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "receipt": 5,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "receipt": 5,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "receipt": 5,
+            "service": 9,
+            "price": 90000
+        },
+        {
+            "receipt": 5,
+            "service": 10,
+            "price": 30000
+        },
+        {
+            "receipt": 5,
+            "service": 14,
+            "price": 270000
+        },
+        {
+            "receipt": 6,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "receipt": 6,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "receipt": 6,
+            "service": 9,
+            "price": 90000
+        },
+        {
+            "receipt": 6,
+            "service": 10,
+            "price": 30000
+        },
+        {
+            "receipt": 6,
+            "service": 14,
+            "price": 270000
+        },
+        {
+            "receipt": 7,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "receipt": 7,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "receipt": 8,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "receipt": 8,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "receipt": 9,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "receipt": 9,
+            "service": 8,
+            "price": 70000
+        }
+    ]
+}

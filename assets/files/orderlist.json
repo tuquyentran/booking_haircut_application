@@ -1,0 +1,186 @@
+{
+    "order": [
+        {
+            "id": 1,
+            "id_branch": 6,
+            "id_customer": 1,
+            "id_employee": 42,
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 1,
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "dateCreate": "12:07, 04/06/2024",
+            "services": [
+                {
+                    "id_order": 1,
+                    "id_service": 7,
+                    "name": "Cắt tóc Nam",
+                    "price": 90000
+                },
+                {
+                    "id_order": 1,
+                    "id_service": 8,
+                    "name": "Gội",
+                    "price": 70000
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "id_branch": 6,
+            "id_customer": 2,
+            "id_employee": 43,
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 1,
+            "name": "Nguyễn Mạnh Hiếu",
+            "phone": "0938029266",
+            "dateCreate": "12:07, 04/06/2024",
+            "services": [
+                {
+                    "id_order": 2,
+                    "id_service": 7,
+                    "name": "Cắt tóc Nam",
+                    "price": 90000
+                },
+                {
+                    "id_order": 2,
+                    "id_service": 8,
+                    "name": "Gội",
+                    "price": 70000
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "id_branch": 6,
+            "id_customer": 3,
+            "id_employee": 44,
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 1,
+            "name": "Cao Võ Nhựt Quan",
+            "phone": "0899515691",
+            "dateCreate": "12:07, 04/06/2024",
+            "services": [
+                {
+                    "id_order": 3,
+                    "id_service": 7,
+                    "name": "Cắt tóc Nam",
+                    "price": 90000
+                },
+                {
+                    "id_order": 3,
+                    "id_service": 8,
+                    "name": "Gội",
+                    "price": 70000
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "id_branch": 6,
+            "id_customer": 4,
+            "id_employee": 45,
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 1,
+            "name": "Nguyễn Thành Đạt",
+            "phone": "0918944965",
+            "dateCreate": "12:07, 04/06/2024",
+            "services": [
+                {
+                    "id_order": 4,
+                    "id_service": 7,
+                    "name": "Cắt tóc Nam",
+                    "price": 90000
+                },
+                {
+                    "id_order": 4,
+                    "id_service": 8,
+                    "name": "Gội",
+                    "price": 70000
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "id_branch": 6,
+            "id_customer": 5,
+            "id_employee": 48,
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 0,
+            "name": "Lương Bá Khang",
+            "phone": "0918944965",
+            "dateCreate": "12:07, 04/06/2024",
+            "services": [
+                {
+                    "id_order": 5,
+                    "id_service": 7,
+                    "name": "Cắt tóc Nam",
+                    "price": 90000
+                },
+                {
+                    "id_order": 5,
+                    "id_service": 8,
+                    "name": "Gội",
+                    "price": 70000
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "id_branch": 6,
+            "id_customer": 1,
+            "id_employee": 42,
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 0,
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "dateCreate": "12:07, 04/06/2024",
+            "services": [
+                {
+                    "id_order": 6,
+                    "id_service": 7,
+                    "name": "Cắt tóc Nam",
+                    "price": 90000
+                },
+                {
+                    "id_order": 6,
+                    "id_service": 8,
+                    "name": "Gội",
+                    "price": 70000
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "id_branch": 6,
+            "id_customer": 1,
+            "id_employee": 42,
+            "date": "23/06/2024",
+            "time": "16:30",
+            "state": 1,
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "dateCreate": "12:07, 23/06/2024",
+            "services": [
+                {
+                    "id_order": 7,
+                    "id_service": 7,
+                    "name": "Cắt tóc Nam",
+                    "price": 90000
+                },
+                {
+                    "id_order": 7,
+                    "id_service": 8,
+                    "name": "Gội",
+                    "price": 70000
+                }
+            ]
+        }
+    ]
+}

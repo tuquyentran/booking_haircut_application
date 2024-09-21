@@ -1,0 +1,183 @@
+{
+    "servicetype": [
+        {
+            "id": 1,
+            "name": "CẮT - GỘI - CẠO",
+            "services": [
+                {
+                    "id": 1,
+                    "name": "Cắt tóc nam + Gội",
+                    "id_type": 1,
+                    "time": 45,
+                    "price": 280000
+                },
+                {
+                    "id": 2,
+                    "name": "Cạo",
+                    "id_type": 1,
+                    "time": 30,
+                    "price": 150000
+                },
+                {
+                    "id": 3,
+                    "name": "Combo",
+                    "id_type": 1,
+                    "time": 80,
+                    "price": 400000
+                },
+                {
+                    "id": 4,
+                    "name": "Gội + Tạo kiểu",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 150000
+                },
+                {
+                    "id": 5,
+                    "name": "KID CUT",
+                    "id_type": 1,
+                    "time": 60,
+                    "price": 180000
+                },
+                {
+                    "id": 6,
+                    "name": "Hair Tattoo",
+                    "id_type": 1,
+                    "time": 0,
+                    "price": 280000
+                },
+                {
+                    "id": 7,
+                    "name": "Cắt tóc nam",
+                    "id_type": 1,
+                    "time": 25,
+                    "price": 90000
+                },
+                {
+                    "id": 8,
+                    "name": "Gội",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 70000
+                },
+                {
+                    "id": 9,
+                    "name": "Cạo khăn nóng lạnh",
+                    "id_type": 1,
+                    "time": 20,
+                    "price": 90000
+                },
+                {
+                    "id": 19,
+                    "name": "Xả tóc",
+                    "id_type": 1,
+                    "time": 15,
+                    "price": 30000
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "NHUỘM",
+            "services": [
+                {
+                    "id": 11,
+                    "name": "Nhuộm Đen/Nâu",
+                    "id_type": 2,
+                    "time": 0,
+                    "price": 250000
+                }, 
+                {
+                    "id": 12,
+                    "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+                    "id_type": 2,
+                    "time": 60,
+                    "price": 800000
+                }, 
+                {
+                    "id": 13,
+                    "name": "Tẩy tóc",
+                    "id_type": 2,
+                    "time": 0,
+                    "price": 400000
+                }, 
+                {
+                    "id": 14,
+                    "name": "Nhuộm nâu",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 270000
+                },
+                {
+                    "id": 15,
+                    "name": "Nhuộm đen",
+                    "id_type": 2,
+                    "time": 30,
+                    "price": 170000
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "PREMLOCK-UỐN",
+            "services": [
+                {
+                    "id": 16,
+                    "name": "Uốn lạnh (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 550000
+                }, 
+                {
+                    "id": 17,
+                    "name": "Uốn giấy bạc/Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 0,
+                    "price": 700000
+                }, 
+                {
+                    "id": 18,
+                    "name": "Uốn Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 0,
+                    "price": 1200000
+                }, 
+                {
+                    "id": 19,
+                    "name": "ÉP SIDE CHÚ TƯ",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 170000
+                },
+                {
+                    "id": 20,
+                    "name": "Uốn giấy bạc (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 450000
+                }, 
+                {
+                    "id": 21,
+                    "name": "Premlock (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 799000
+                },
+                {
+                    "id": 22,
+                    "name": "Ép side (2 bên)",
+                    "id_type": 3,
+                    "time": 60,
+                    "price": 170000
+                }, 
+                {
+                    "id": 23,
+                    "name": "Uốn Ruffled (Tùy chỉnh)",
+                    "id_type": 3,
+                    "time": 30,
+                    "price": 440000
+                }
+            ]
+        }
+    ]
+}

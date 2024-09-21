@@ -1,0 +1,104 @@
+{
+    "order_service": [
+        {
+            "order": 1,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "order": 1,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "order": 2,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "order": 2,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "order": 3,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "order": 3,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "order": 4,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "order": 4,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "order": 5,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "order": 5,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "order": 6,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "order": 6,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "order": 7,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "order": 7,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "order": 8,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "order": 8,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "order": 9,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "order": 9,
+            "service": 8,
+            "price": 70000
+        },
+        {
+            "order": 10,
+            "service": 7,
+            "price": 90000
+        },
+        {
+            "order": 10,
+            "service": 8,
+            "price": 70000
+        }
+    ]
+}

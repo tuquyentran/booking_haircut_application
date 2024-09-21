@@ -1,0 +1,2407 @@
+{
+    "servicetype": [
+        {
+            "id": 1,
+            "name": "CẮT - GỘI - CẠO"
+        },
+        {
+            "id": 2,
+            "name": "NHUỘM"
+        },
+        {
+            "id": 3,
+            "name": "PREMLOCK-UỐN"
+        }
+    ],
+    "service": [
+        {
+            "id": 1,
+            "name": "Cắt tóc nam + Gội",
+            "type": 1,
+            "time": 45,
+            "price": 280000
+        },
+        {
+            "id": 2,
+            "name": "Cạo",
+            "type": 1,
+            "time": 30,
+            "price": 150000
+        },
+        {
+            "id": 3,
+            "name": "Combo",
+            "type": 1,
+            "time": 80,
+            "price": 400000
+        },
+        {
+            "id": 4,
+            "name": "Gội + Tạo kiểu",
+            "type": 1,
+            "time": 20,
+            "price": 150000
+        },
+        {
+            "id": 5,
+            "name": "KID CUT",
+            "type": 1,
+            "time": 60,
+            "price": 180000
+        },
+        {
+            "id": 6,
+            "name": "Hair Tattoo",
+            "type": 1,
+            "time": 0,
+            "price": 280000
+        },
+        {
+            "id": 7,
+            "name": "Cắt tóc nam",
+            "type": 1,
+            "time": 25,
+            "price": 90000
+        },
+        {
+            "id": 8,
+            "name": "Gội",
+            "type": 1,
+            "time": 15,
+            "price": 70000
+        },
+        {
+            "id": 9,
+            "name": "Cạo khăn nóng lạnh",
+            "type": 1,
+            "time": 20,
+            "price": 90000
+        },
+        {
+            "id": 10,
+            "name": "Xả tóc",
+            "type": 1,
+            "time": 15,
+            "price": 30000
+        },
+        {
+            "id": 11,
+            "name": "Nhuộm Đen/Nâu",
+            "type": 2,
+            "time": 0,
+            "price": 250000
+        },
+        {
+            "id": 12,
+            "name": "Nhuộm màu thời trang (+ Số lần tẩy)",
+            "type": 2,
+            "time": 60,
+            "price": 800000
+        },
+        {
+            "id": 13,
+            "name": "Tẩy tóc",
+            "type": 2,
+            "time": 0,
+            "price": 400000
+        },
+        {
+            "id": 14,
+            "name": "Nhuộm nâu",
+            "type": 2,
+            "time": 30,
+            "price": 270000
+        },
+        {
+            "id": 15,
+            "name": "Nhuộm đen",
+            "type": 2,
+            "time": 30,
+            "price": 170000
+        },
+        {
+            "id": 16,
+            "name": "Uốn lạnh (Tùy chỉnh)",
+            "type": 3,
+            "time": 60,
+            "price": 550000
+        },
+        {
+            "id": 17,
+            "name": "Uốn giấy bạc/Ruffled (Tùy chỉnh)",
+            "type": 3,
+            "time": 0,
+            "price": 700000
+        },
+        {
+            "id": 18,
+            "name": "Uốn Premlock (Tùy chỉnh)",
+            "type": 3,
+            "time": 0,
+            "price": 1200000
+        },
+        {
+            "id": 19,
+            "name": "ÉP SIDE CHÚ TƯ",
+            "type": 3,
+            "time": 30,
+            "price": 170000
+        },
+        {
+            "id": 20,
+            "name": "Uốn giấy bạc (Tùy chỉnh)",
+            "type": 3,
+            "time": 60,
+            "price": 450000
+        },
+        {
+            "id": 21,
+            "name": "Premlock (Tùy chỉnh)",
+            "type": 3,
+            "time": 30,
+            "price": 799000
+        },
+        {
+            "id": 22,
+            "name": "Ép side (2 bên)",
+            "type": 3,
+            "time": 60,
+            "price": 170000
+        },
+        {
+            "id": 23,
+            "name": "Uốn Ruffled (Tùy chỉnh)",
+            "type": 3,
+            "time": 30,
+            "price": 440000
+        }
+    ],
+    "branch": [
+        {
+            "id": "CN000001",
+            "image": "4rau-Q1.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 1",
+            "anotherName": "4Rau Quận 1",
+            "address": "77 Yersin, Quận 1, TP.HCM",
+            "type": 1
+        },
+        {
+            "id": "CN000002",
+            "image": "4rau-Q3.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 3",
+            "anotherName": "4Rau Quận 3",
+            "address": "262c Điện Biên Phủ, P. Võ Thị Sáu, Quận 3",
+            "type": 1
+        },
+        {
+            "id": "CN000003",
+            "image": "4rau-Q2.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 2",
+            "anotherName": "4Rau Quận 2",
+            "address": "37 Xuân Thủy, P. Thảo Điền, Quận 2",
+            "type": 0
+        },
+        {
+            "id": "CN000004",
+            "image": "4rau-Q4.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 4",
+            "anotherName": "4Rau Quận 4",
+            "address": "360B Bến Vân Đồn, P.1, Quận 4",
+            "type": 0
+        },
+        {
+            "id": "CN000005",
+            "image": "4rau-Q7.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 7",
+            "anotherName": "4Rau Quận 7",
+            "address": "SCENIC VALLEY 2 - Block C002, KĐT Phú Mỹ Hưng, Quận 7",
+            "type": 0
+        },
+        {
+            "id": "CN000006",
+            "image": "4rau-Q9.png",
+            "name": "4Rau Barber Shop - Chi nhánh Vinhomes Quận 9",
+            "anotherName": "4Rau Vinhomes Quận 9",
+            "address": "S5.03, Vinhomes Grand Park, Quận 9",
+            "type": 0
+        },
+        {
+            "id": "CN000007",
+            "image": "4rau-Q10.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 10",
+            "anotherName": "4Rau Quận 10",
+            "address": "634 Điện Biên Phủ, P.11, Quận 10",
+            "type": 0
+        },
+        {
+            "id": "CN000008",
+            "image": "4rau-QBT.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Bình Thạnh",
+            "anotherName": "4Rau Quận Bình Thạnh",
+            "address": "100 Bùi Đình Tuý, P.12, Bình Thạnh",
+            "type": 0
+        },
+        {
+            "id": "CN000009",
+            "image": "4rau-QGV.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Gò Vấp",
+            "anotherName": "4Rau Quận Gò Vấp",
+            "address": "843 Phan Văn Trị, P.7, Gò Vấp",
+            "type": 0
+        },
+        {
+            "id": "CN000010",
+            "image": "4rau-QTB.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Tân Bình",
+            "anotherName": "4Rau Quận Tân Bình",
+            "address": "81 Bình Giã, P.13, Tân Bình",
+            "type": 0
+        },
+        {
+            "id": "CN000011",
+            "image": "4rau-QTP.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Tân Phú",
+            "anotherName": "4Rau Quận Tân Phú",
+            "address": "603a Lũy Bán Bích, Hoà Thanh, Tân Phú",
+            "type": 0
+        }
+    ],
+    "branch_service": [
+        {
+            "service": "DV000001",
+            "branch": "CN000001",
+            "price": 280000
+        },
+        {
+            "service": "DV000002",
+            "branch": "CN000001",
+            "price": 150000
+        },
+        {
+            "service": "DV000003",
+            "branch": "CN000001",
+            "price": 400000
+        },
+        {
+            "service": "DV000004",
+            "branch": "CN000001",
+            "price": 150000
+        },
+        {
+            "service": "DV000005",
+            "branch": "CN000001",
+            "price": 180000
+        },
+        {
+            "service": "DV000001",
+            "branch": "CN000002",
+            "price": 280000
+        },
+        {
+            "service": "DV000002",
+            "branch": "CN000002",
+            "price": 150000
+        },
+        {
+            "service": "DV000003",
+            "branch": "CN000002",
+            "price": 400000
+        },
+        {
+            "service": "DV000004",
+            "branch": "CN000002",
+            "price": 150000
+        },
+        {
+            "service": "DV000006",
+            "branch": "CN000002",
+            "price": 280000
+        },
+        {
+            "service": "DV000005",
+            "branch": "CN000002",
+            "price": 180000
+        },
+        {
+            "service": "DV000011",
+            "branch": "CN000002",
+            "price": 250000
+        },
+        {
+            "service": "DV000012",
+            "type": "CN000002",
+            "price": 800000
+        },
+        {
+            "service": "DV000013",
+            "branch": "CN000002",
+            "price": 400000
+        },
+        {
+            "service": "DV000016",
+            "branch": "CN000002",
+            "price": 550000
+        },
+        {
+            "service": "DV000017",
+            "branch": "CN000002",
+            "price": 700000
+        },
+        {
+            "service": "DV000018",
+            "branch": "CN000002",
+            "price": 1200000
+        },
+        {
+            "service": "DV000019",
+            "branch": "CN000002",
+            "price": 170000
+        },
+        {
+            "service": "DV000007",
+            "branch": "CN000003",
+            "price": 90000
+        },
+        {
+            "service": "DV000008",
+            "branch": "CN000003",
+            "price": 70000
+        },
+        {
+            "service": "DV000009",
+            "branch": "CN000003",
+            "price": 90000
+        },
+        {
+            "service": "DV000010",
+            "branch": "CN000003",
+            "price": 30000
+        },
+        {
+            "service": "DV000014",
+            "branch": "CN000003",
+            "price": 270000
+        },
+        {
+            "service": "DV000015",
+            "branch": "CN000003",
+            "price": 170000
+        },
+        {
+            "service": "DV000012",
+            "branch": "CN000003",
+            "price": 400000
+        },
+        {
+            "service": "DV000013",
+            "branch": "CN000003",
+            "price": 200000
+        },
+        {
+            "service": "DV000016",
+            "branch": "CN000003",
+            "price": 300000
+        },
+        {
+            "service": "DV000020",
+            "branch": "CN000003",
+            "price": 450000
+        },
+        {
+            "service": "DV000021",
+            "branch": "CN000003",
+            "price": 799000
+        },
+        {
+            "service": "DV000022",
+            "branch": "CN000003",
+            "price": 170000
+        },
+        {
+            "service": "DV000023",
+            "branch": "CN000003",
+            "price": 440000
+        },
+        {
+            "service": "DV000007",
+            "branch": "CN000004",
+            "price": 90000
+        },
+        {
+            "service": "DV000008",
+            "branch": "CN000004",
+            "price": 70000
+        },
+        {
+            "service": "DV000009",
+            "branch": "CN000004",
+            "price": 90000
+        },
+        {
+            "service": "DV000010",
+            "branch": "CN000004",
+            "price": 30000
+        },
+        {
+            "service": "DV000014",
+            "branch": "CN000004",
+            "price": 270000
+        },
+        {
+            "service": "DV000015",
+            "branch": "CN000004",
+            "price": 170000
+        },
+        {
+            "service": "DV000012",
+            "branch": "CN000004",
+            "price": 400000
+        },
+        {
+            "service": "DV000013",
+            "branch": "CN000004",
+            "price": 200000
+        },
+        {
+            "service": "DV000016",
+            "branch": "CN000004",
+            "price": 300000
+        },
+        {
+            "service": "DV000020",
+            "branch": "CN000004",
+            "price": 450000
+        },
+        {
+            "service": "DV000021",
+            "branch": "CN000004",
+            "price": 799000
+        },
+        {
+            "service": "DV000022",
+            "branch": "CN000004",
+            "price": 170000
+        },
+        {
+            "service": "DV000023",
+            "branch": "CN000004",
+            "price": 440000
+        },
+        {
+            "service": "DV000007",
+            "branch": "CN000005",
+            "price": 90000
+        },
+        {
+            "service": "DV000008",
+            "branch": "CN000005",
+            "price": 70000
+        },
+        {
+            "service": "DV000009",
+            "branch": "CN000005",
+            "price": 90000
+        },
+        {
+            "service": "DV000010",
+            "branch": "CN000005",
+            "price": 30000
+        },
+        {
+            "service": "DV000014",
+            "branch": "CN000005",
+            "price": 270000
+        },
+        {
+            "service": "DV000015",
+            "branch": "CN000005",
+            "price": 170000
+        },
+        {
+            "service": "DV000012",
+            "branch": "CN000005",
+            "price": 400000
+        },
+        {
+            "service": "DV000013",
+            "branch": "CN000005",
+            "price": 200000
+        },
+        {
+            "service": "DV000016",
+            "branch": "CN000005",
+            "price": 300000
+        },
+        {
+            "service": "DV000020",
+            "branch": "CN000005",
+            "price": 450000
+        },
+        {
+            "service": "DV000021",
+            "branch": "CN000005",
+            "price": 799000
+        },
+        {
+            "service": "DV000022",
+            "branch": "CN000005",
+            "price": 170000
+        },
+        {
+            "service": "DV000023",
+            "branch": "CN000005",
+            "price": 440000
+        },
+        {
+            "service": "DV000007",
+            "branch": "CN000006",
+            "price": 90000
+        },
+        {
+            "service": "DV000008",
+            "branch": "CN000006",
+            "price": 70000
+        },
+        {
+            "service": "DV000009",
+            "branch": "CN000006",
+            "price": 90000
+        },
+        {
+            "service": "DV000010",
+            "branch": "CN000006",
+            "price": 30000
+        },
+        {
+            "service": "DV000014",
+            "branch": "CN000006",
+            "price": 270000
+        },
+        {
+            "service": "DV000015",
+            "branch": "CN000006",
+            "price": 170000
+        },
+        {
+            "service": "DV000012",
+            "branch": "CN000006",
+            "price": 400000
+        },
+        {
+            "service": "DV000013",
+            "branch": "CN000006",
+            "price": 200000
+        },
+        {
+            "service": "DV000016",
+            "branch": "CN000006",
+            "price": 300000
+        },
+        {
+            "service": "DV000020",
+            "branch": "CN000006",
+            "price": 450000
+        },
+        {
+            "service": "DV000021",
+            "branch": "CN000006",
+            "price": 799000
+        },
+        {
+            "service": "DV000022",
+            "branch": "CN000006",
+            "price": 170000
+        },
+        {
+            "service": "DV000023",
+            "branch": "CN000006",
+            "price": 440000
+        },
+        {
+            "service": "DV000007",
+            "branch": "CN000007",
+            "price": 90000
+        },
+        {
+            "service": "DV000008",
+            "branch": "CN000007",
+            "price": 70000
+        },
+        {
+            "service": "DV000009",
+            "branch": "CN000007",
+            "price": 90000
+        },
+        {
+            "service": "DV000010",
+            "branch": "CN000007",
+            "price": 30000
+        },
+        {
+            "service": "DV000014",
+            "branch": "CN000007",
+            "price": 270000
+        },
+        {
+            "service": "DV000015",
+            "branch": "CN000007",
+            "price": 170000
+        },
+        {
+            "service": "DV000012",
+            "branch": "CN000007",
+            "price": 400000
+        },
+        {
+            "service": "DV000013",
+            "branch": "CN000007",
+            "price": 200000
+        },
+        {
+            "service": "DV000016",
+            "branch": "CN000007",
+            "price": 300000
+        },
+        {
+            "service": "DV000020",
+            "branch": "CN000007",
+            "price": 450000
+        },
+        {
+            "service": "DV000021",
+            "branch": "CN000007",
+            "price": 799000
+        },
+        {
+            "service": "DV000022",
+            "branch": "CN000007",
+            "price": 170000
+        },
+        {
+            "service": "DV000023",
+            "branch": "CN000007",
+            "price": 440000
+        },
+        {
+            "service": "DV000007",
+            "branch": "CN000008",
+            "price": 90000
+        },
+        {
+            "service": "DV000008",
+            "branch": "CN000008",
+            "price": 70000
+        },
+        {
+            "service": "DV000009",
+            "branch": "CN000008",
+            "price": 90000
+        },
+        {
+            "service": "DV000010",
+            "branch": "CN000008",
+            "price": 30000
+        },
+        {
+            "service": "DV000014",
+            "branch": "CN000008",
+            "price": 270000
+        },
+        {
+            "service": "DV000015",
+            "branch": "CN000008",
+            "price": 170000
+        },
+        {
+            "service": "DV000012",
+            "branch": "CN000008",
+            "price": 400000
+        },
+        {
+            "service": "DV000013",
+            "branch": "CN000008",
+            "price": 200000
+        },
+        {
+            "service": "DV000016",
+            "branch": "CN000008",
+            "price": 300000
+        },
+        {
+            "service": "DV000020",
+            "branch": "CN000008",
+            "price": 450000
+        },
+        {
+            "service": "DV000021",
+            "branch": "CN000008",
+            "price": 799000
+        },
+        {
+            "service": "DV000022",
+            "branch": "CN000008",
+            "price": 170000
+        },
+        {
+            "service": "DV000023",
+            "branch": "CN000008",
+            "price": 440000
+        },
+        {
+            "service": "DV000007",
+            "branch": "CN000009",
+            "price": 90000
+        },
+        {
+            "service": "DV000008",
+            "branch": "CN000009",
+            "price": 70000
+        },
+        {
+            "service": "DV000009",
+            "branch": "CN000009",
+            "price": 90000
+        },
+        {
+            "service": "DV000010",
+            "branch": "CN000009",
+            "price": 30000
+        },
+        {
+            "service": "DV000014",
+            "branch": "CN000009",
+            "price": 270000
+        },
+        {
+            "service": "DV000015",
+            "branch": "CN000009",
+            "price": 170000
+        },
+        {
+            "service": "DV000012",
+            "branch": "CN000009",
+            "price": 400000
+        },
+        {
+            "service": "DV000013",
+            "branch": "CN000009",
+            "price": 200000
+        },
+        {
+            "service": "DV000016",
+            "branch": "CN000009",
+            "price": 300000
+        },
+        {
+            "service": "DV000020",
+            "branch": "CN000009",
+            "price": 450000
+        },
+        {
+            "service": "DV000021",
+            "branch": "CN000009",
+            "price": 799000
+        },
+        {
+            "service": "DV000022",
+            "branch": "CN000009",
+            "price": 170000
+        },
+        {
+            "service": "DV000023",
+            "branch": "CN000009",
+            "price": 440000
+        },
+        {
+            "service": "DV000007",
+            "branch": "CN000010",
+            "price": 90000
+        },
+        {
+            "service": "DV000008",
+            "branch": "CN000010",
+            "price": 70000
+        },
+        {
+            "service": "DV000009",
+            "branch": "CN000010",
+            "price": 90000
+        },
+        {
+            "service": "DV000010",
+            "branch": "CN000010",
+            "price": 30000
+        },
+        {
+            "service": "DV000014",
+            "branch": "CN000010",
+            "price": 270000
+        },
+        {
+            "service": "DV000015",
+            "branch": "CN000010",
+            "price": 170000
+        },
+        {
+            "service": "DV000012",
+            "branch": "CN000010",
+            "price": 400000
+        },
+        {
+            "service": "DV000013",
+            "branch": "CN000010",
+            "price": 200000
+        },
+        {
+            "service": "DV000016",
+            "branch": "CN000010",
+            "price": 300000
+        },
+        {
+            "service": "DV000020",
+            "branch": "CN000010",
+            "price": 450000
+        },
+        {
+            "service": "DV000021",
+            "branch": "CN000010",
+            "price": 799000
+        },
+        {
+            "service": "DV000022",
+            "branch": "CN000010",
+            "price": 170000
+        },
+        {
+            "service": "DV000023",
+            "branch": "CN000010",
+            "price": 440000
+        },
+        {
+            "service": "DV000007",
+            "branch": "CN000011",
+            "price": 90000
+        },
+        {
+            "service": "DV000008",
+            "branch": "CN000011",
+            "price": 70000
+        },
+        {
+            "service": "DV000009",
+            "branch": "CN000011",
+            "price": 90000
+        },
+        {
+            "service": "DV000010",
+            "branch": "CN000011",
+            "price": 30000
+        },
+        {
+            "service": "DV000014",
+            "branch": "CN000011",
+            "price": 270000
+        },
+        {
+            "service": "DV000015",
+            "branch": "CN000011",
+            "price": 170000
+        },
+        {
+            "service": "DV000012",
+            "branch": "CN000011",
+            "price": 400000
+        },
+        {
+            "service": "DV000013",
+            "branch": "CN000011",
+            "price": 200000
+        },
+        {
+            "service": "DV000016",
+            "branch": "CN000011",
+            "price": 300000
+        },
+        {
+            "service": "DV000020",
+            "branch": "CN000011",
+            "price": 450000
+        },
+        {
+            "service": "DV000021",
+            "branch": "CN000011",
+            "price": 799000
+        },
+        {
+            "service": "DV000022",
+            "branch": "CN000011",
+            "price": 170000
+        },
+        {
+            "service": "DV000023",
+            "branch": "CN000011",
+            "price": 440000
+        }
+    ],
+    "employee": [
+        {
+            "id": "NV000001",
+            "branch": "CN000001",
+            "image": "Q1-vanminh.png",
+            "name": "Cao Văn Minh",
+            "nickname": "Minh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000002",
+            "branch": "CN000001",
+            "image": "Q1-nhi.png",
+            "name": "Nguyễn Võ Uyên Nhi",
+            "nickname": "Nhi",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000003",
+            "branch": "CN000001",
+            "image": "Q1-phuqui.png",
+            "name": "Trần Phú Quí",
+            "nickname": "Phú Quí",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000004",
+            "branch": "CN000001",
+            "image": "Q1-thang.png",
+            "name": "Đỗ Minh Thắng",
+            "nickname": "Thắng",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000005",
+            "branch": "CN000001",
+            "image": "Q1-thanhphu.png",
+            "name": "Trần Thanh Phú",
+            "nickname": "Thanh Phú",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000006",
+            "branch": "CN000001",
+            "image": "",
+            "name": "Quan Sì Lay",
+            "nickname": "Quan Sì Lay",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 1
+        },
+        {
+            "id": "NV000007",
+            "branch": "CN000002",
+            "image": "Q3-tuyennguyen.png",
+            "name": "Nguyễn Phương Tuyến",
+            "nickname": "Tuyến Nguyễn",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000008",
+            "branch": "CN000002",
+            "image": "Q3-thuan.png",
+            "name": "Võ Tấn Thuận",
+            "nickname": "Thuận",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000009",
+            "branch": "CN000002",
+            "image": "Q3-xuanbao.png",
+            "name": "Trần Xuân Bảo",
+            "nickname": "Xuân Bảo",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000010",
+            "branch": "CN000002",
+            "image": "Q3-phucloi.png",
+            "name": "Nguyễn Phúc Lợi",
+            "nickname": "Phúc Lợi",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000011",
+            "branch": "CN000002",
+            "image": "Q3-linh.png",
+            "name": "Mai Linh",
+            "nickname": "Linh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000012",
+            "branch": "CN000002",
+            "image": "Q3-tuan.png",
+            "name": "Hàn Hoàng Tuân",
+            "nickname": "Tuân",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000013",
+            "branch": "CN000002",
+            "image": "",
+            "name": "Trịnh Trần Phương Tuấn",
+            "nickname": "J97",
+            "birthday": "12/04/1997",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 1
+        },
+        {
+            "id": "NV0000014",
+            "branch": "CN000003",
+            "image": "Q2-tu.png",
+            "name": "Từ Thanh Tú",
+            "nickname": "Tú",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000015",
+            "branch": "CN000003",
+            "image": "Q2-tai.png",
+            "name": "Nguyễn Tấn Tài",
+            "nickname": "Tài",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000016",
+            "branch": "CN000003",
+            "image": "Q2-hoang.png",
+            "name": "Nguyễn Huy Hoàng",
+            "nickname": "Hoàng",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000017",
+            "branch": "CN000003",
+            "image": "Q2-phatthanh.png",
+            "name": "Trần Phát Thành",
+            "nickname": "Phát Thành",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000018",
+            "branch": "CN000003",
+            "image": "Q2-nguyentin.png",
+            "name": "Nguyễn Trần Trung Tín",
+            "nickname": "Nguyễn Tín",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000019",
+            "branch": "CN000003",
+            "image": "Q2-ducanh.png",
+            "name": "Huỳnh Đức Anh",
+            "nickname": "Đức Anh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000020",
+            "branch": "CN000003",
+            "image": "Q2-dongnguyen.png",
+            "name": "Hà Đông Nguyên",
+            "nickname": "Đông Nguyên",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000021",
+            "branch": "CN000003",
+            "image": "Q2-ductrong.png",
+            "name": "Trần Đức Trọng",
+            "nickname": "Đức Trọng",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000022",
+            "branch": "CN000003",
+            "image": "",
+            "name": "Tina Thảo Thi",
+            "nickname": "Peekaboo",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 1
+        },
+        {
+            "id": "NV0000023",
+            "branch": "CN000004",
+            "image": "Q4-chivinh.png",
+            "name": "Đỗ Chí Vĩnh",
+            "nickname": "Chí Vĩnh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000024",
+            "branch": "CN000004",
+            "image": "Q4-tantai.png",
+            "name": "Trần Tấn Tài",
+            "nickname": "Tài",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000025",
+            "branch": "CN000004",
+            "image": "Q4-giahuy.png",
+            "name": "Nguyễn Gia Huy",
+            "nickname": "Gia Huy",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000026",
+            "branch": "CN000004",
+            "image": "Q4-congkien.png",
+            "name": "Hà Nguyễn Công Kiên",
+            "nickname": "Công Kiên",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000027",
+            "branch": "CN000004",
+            "image": "Q4-lap.png",
+            "name": "Vương Quốc Lập",
+            "nickname": "Lập",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000028",
+            "branch": "CN000004",
+            "image": "Q4-quynhnhu.png",
+            "name": "Nguyễn Ái Quỳnh Như",
+            "nickname": "Quỳnh Như",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000029",
+            "branch": "CN000004",
+            "image": "Q4-ducnguyen.png",
+            "name": "Đỗ Đức Nguyên",
+            "nickname": "Đức Nguyên",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000030",
+            "branch": "CN000004",
+            "image": "Q4-nhulon.png",
+            "name": "Phan Ngọc Như",
+            "nickname": "Như Phan",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000031",
+            "branch": "CN000004",
+            "image": "",
+            "name": "Trần Tú Quyên",
+            "nickname": "Quyên Khùng",
+            "birthday": "06/09/2003",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 1
+        },
+        {
+            "id": "NV0000032",
+            "branch": "CN000005",
+            "image": "Q7-gin.png",
+            "name": "Nguyễn Tuấn Kiệt",
+            "nickname": "Gin",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000033",
+            "branch": "CN000005",
+            "image": "Q7-dat.png",
+            "name": "Nguyễn Tấn Đạt",
+            "nickname": "Đạt",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000034",
+            "branch": "CN000005",
+            "image": "Q7-hoa.png",
+            "name": "Đinh Nguyễn Bách Hóa",
+            "nickname": "Hóa",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000035",
+            "branch": "CN000005",
+            "image": "",
+            "name": "Mai Anh Tú",
+            "nickname": "Tú",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000036",
+            "branch": "CN000005",
+            "image": "",
+            "name": "Nguyễn Phi Trường",
+            "nickname": "Trường",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000037",
+            "branch": "CN000005",
+            "image": "",
+            "name": "Hàn Nhật Huy",
+            "nickname": "Huy",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000038",
+            "branch": "CN000005",
+            "image": "Q7-nhathiep.png",
+            "name": "Tống Nhật Hiệp",
+            "nickname": "Nhật Hiệp",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000039",
+            "branch": "CN000005",
+            "image": "",
+            "name": "Nguyễn Hoàng Cường",
+            "nickname": "Hoàng Cường",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000040",
+            "branch": "CN000005",
+            "image": "Q7-tri.png",
+            "name": "Nguyễn Minh Trí",
+            "nickname": "Trí",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000041",
+            "branch": "CN000005",
+            "image": "",
+            "name": "Ba Gà",
+            "nickname": "Phan Tấn Trung",
+            "birthday": "06/09/1989",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 1
+        },
+        {
+            "id": "NV0000042",
+            "branch": "CN000006",
+            "image": "Q9-vanphuc.png",
+            "name": "Trần Vạn Phúc",
+            "nickname": "Vạn Phúc",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000043",
+            "branch": "CN000006",
+            "image": "Q9-dangkhoa.png",
+            "name": "Trần Đăng Khoa",
+            "nickname": "Đăng Khoa",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000044",
+            "branch": "CN000006",
+            "image": "Q9-kimhoang.png",
+            "name": "Mai Kim Hoàng",
+            "nickname": "Kim Hoàng",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000045",
+            "branch": "CN000006",
+            "image": "Q9-trungtin.png",
+            "name": "Phạm Trung Tín",
+            "nickname": "Trung Tín",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000046",
+            "branch": "CN000006",
+            "image": "Q9-dinhvu.png",
+            "name": "Dương Đình Vũ",
+            "nickname": "Đình Vũ",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000047",
+            "branch": "CN000006",
+            "image": "Q9-tantrieu.png",
+            "name": "Trương Tấn Triệu",
+            "nickname": "Tấn Triệu",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000048",
+            "branch": "CN000006",
+            "image": "Q9-vanthinh.png",
+            "name": "Hồ Văn Thịnh",
+            "nickname": "Văn Thịnh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000049",
+            "branch": "CN000006",
+            "image": "",
+            "name": "Cẩm Lan",
+            "nickname": "Cẩm Lan",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 1
+        },
+        {
+            "id": "NV0000050",
+            "branch": "CN000007",
+            "image": "Q10-khai.png",
+            "name": "Đỗ Khải",
+            "nickname": "Khải",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000051",
+            "branch": "CN000007",
+            "image": "Q10-canh.png",
+            "name": "Bùi Thanh Cảnh",
+            "nickname": "Cảnh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000052",
+            "branch": "CN000007",
+            "image": "Q10-tam.png",
+            "name": "Đoàn Minh Tâm",
+            "nickname": "Tâm",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000053",
+            "branch": "CN000007",
+            "image": "Q10-chi.png",
+            "name": "Phương Mỹ Chi",
+            "nickname": "Chi",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000054",
+            "branch": "CN000007",
+            "image": "Q10-thuonghai.png",
+            "name": "Lý Thượng Hải",
+            "nickname": "Thượng Hải",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000055",
+            "branch": "CN000007",
+            "image": "Q10-dung.png",
+            "name": "Nguyễn Hoàng Dung",
+            "nickname": "Hoàng Dung",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000056",
+            "branch": "CN000007",
+            "image": "Q10-giabao.png",
+            "name": "Lương Gia Bảo",
+            "nickname": "Gia Bảo",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000057",
+            "branch": "CN000007",
+            "image": "Q10-khoa.png",
+            "name": "Võ Tấn Khoa",
+            "nickname": "Khoa",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000058",
+            "branch": "CN000007",
+            "image": "",
+            "name": "Nguyễn Thị Ngọc Linh",
+            "nickname": "Nguyễn Thị Ngọc Linh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 1
+        },
+        {
+            "id": "NV0000059",
+            "branch": "CN000008",
+            "image": "QBT-thienduong.png",
+            "name": "Lại Thiên Đường",
+            "nickname": "Thiên Đường",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000060",
+            "branch": "CN000008",
+            "image": "QBT-kiem.png",
+            "name": "Nguyễn Bảo Kiếm",
+            "nickname": "Kiếm",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000061",
+            "branch": "CN000008",
+            "image": "QBT-vu.png",
+            "name": "Dương Vũ",
+            "nickname": "Vũ",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000062",
+            "branch": "CN000008",
+            "image": "QBT-ngochuynh.png",
+            "name": "Lương Ngọc Huynh",
+            "nickname": "Ngọc Huynh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000063",
+            "branch": "CN000008",
+            "image": "QBT-khoi.png",
+            "name": "Trần Tuấn Khôi",
+            "nickname": "Khôi",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000064",
+            "branch": "CN000008",
+            "image": "QBT-hieu.png",
+            "name": "Tô Anh Hiếu",
+            "nickname": "Hiếu",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000065",
+            "branch": "CN000008",
+            "image": "",
+            "name": "Trần Trúc Linh",
+            "nickname": "Trúc Link",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000066",
+            "branch": "CN000008",
+            "image": "QBT-huuduy.png",
+            "name": "Phan Hữu Duy",
+            "nickname": "Hữu Duy",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000067",
+            "branch": "CN000008",
+            "image": "",
+            "name": "Cô Hai Báo",
+            "nickname": "Cô Hai Báo",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 1
+        },
+        {
+            "id": "NV0000068",
+            "branch": "CN000009",
+            "image": "QGV-duem.png",
+            "name": "Trần Phương Dũ",
+            "nickname": "Dũ Em",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000069",
+            "branch": "CN000009",
+            "image": "QGV-mytien.png",
+            "name": "Hà Mỹ Tiên",
+            "nickname": "Mỹ Tiên",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000070",
+            "branch": "CN000009",
+            "image": "QGV-thanhviet.png",
+            "name": "Đoàn Thanh Việt",
+            "nickname": "Thanh Việt",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000071",
+            "branch": "CN000009",
+            "image": "QGV-lamtruong.png",
+            "name": "Lâm Minh Trường",
+            "nickname": "Lâm Trường",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000072",
+            "branch": "CN000009",
+            "image": "QGV-thienlong.png",
+            "name": "Đỗ Thiên Long",
+            "nickname": "Thiên Long",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000073",
+            "branch": "CN000009",
+            "image": "QGV-nhattien.png",
+            "name": "Cao Nhật Tiên",
+            "nickname": "Nhật Tiên",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000074",
+            "branch": "CN000009",
+            "image": "QGV-tanmanh.png",
+            "name": "Tấn Mạnh",
+            "nickname": "Tấn Mạnh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000075",
+            "branch": "CN000009",
+            "image": "",
+            "name": "Miko Lan Trinh",
+            "nickname": "Miko Lan Trinh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 1
+        },
+        {
+            "id": "NV0000076",
+            "branch": "CN000010",
+            "image": "QTB-vic.png",
+            "name": "Cao Y Việt",
+            "nickname": "VIC",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000077",
+            "branch": "CN000010",
+            "image": "QTB-caoduy.png",
+            "name": "Cao Bá Duy",
+            "nickname": "Cao Duy",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000078",
+            "branch": "CN000010",
+            "image": "QTB-trungphong.png",
+            "name": "Đỗ Trung Phong",
+            "nickname": "Trung Phong",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000079",
+            "branch": "CN000010",
+            "image": "QTB-huuhoa.png",
+            "name": "Hữu Anh Hòa",
+            "nickname": "Hữu Hòa",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000080",
+            "branch": "CN000010",
+            "image": "QTB-vinhhai.png",
+            "name": "Vĩnh Hải",
+            "nickname": "Vĩnh Hải",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000081",
+            "branch": "CN000010",
+            "image": "QTB-binh.png",
+            "name": "Doãn Chí Bình",
+            "nickname": "Bình",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000082",
+            "branch": "CN000010",
+            "image": "QTB-tuan.png",
+            "name": "Lương Từ Ân",
+            "nickname": "Từ Ân",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000083",
+            "branch": "CN000010",
+            "image": "",
+            "name": "Cô Minh Hiếu",
+            "nickname": "Cô Minh Hiếu",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 1
+        },
+        {
+            "id": "NV0000084",
+            "branch": "CN000011",
+            "image": "QTP-thanhtam.png",
+            "name": "Phạm Hồng Thành Tâm",
+            "nickname": "Thành Tâm",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000085",
+            "branch": "CN000011",
+            "image": "QTP-vanhong.png",
+            "name": "Nguyễn Văn Hồng",
+            "nickname": "Văn Hồng",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV0000086",
+            "branch": "CN000011",
+            "image": "QTP-mai.png",
+            "name": "Đỗ Xuân Mai",
+            "nickname": "Mai",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000087",
+            "branch": "CN000011",
+            "image": "QTP-hoanglong.png",
+            "name": "Phạm Hoàng Long",
+            "nickname": "Hoàng Long",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000088",
+            "branch": "CN000011",
+            "image": "QTP-vanhau.png",
+            "name": "Đoàn Văn Hậu",
+            "nickname": "Văn Hậu",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000089",
+            "branch": "CN000011",
+            "image": "QTP-vankhanh.png",
+            "name": "Lương Văn Khanh",
+            "nickname": "Văn Khanh",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000090",
+            "branch": "CN000011",
+            "image": "QTP-quochuy.png",
+            "name": "Đỗ Quốc Huy",
+            "nickname": "Quốc Huy",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 0,
+            "state": 1,
+            "role": 0
+        },
+        {
+            "id": "NV000091",
+            "branch": "CN000011",
+            "image": "",
+            "name": "Cô Ba Vàng Ngọc",
+            "nickname": "Cô Ba Vàng Ngọc",
+            "birthday": "06/09/1996",
+            "phone": "0948562481",
+            "gender": 1,
+            "state": 1,
+            "role": 1
+        }
+    ],
+    "customer": [
+        {
+            "id": "KH000001",
+            "image": "",
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "email": "ouyin2803@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": "KH000002",
+            "image": "",
+            "name": "Nguyễn Mạnh Hiếu",
+            "phone": "0938029266",
+            "email": "hiubin@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": "KH000003",
+            "image": "",
+            "name": "Cao Võ Nhựt Quan",
+            "phone": "0918944965",
+            "email": "quansilay@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": "KH000004",
+            "image": "",
+            "name": "Nguyễn Thành Đạt",
+            "phone": "0918944965",
+            "email": "datg@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": "KH000005",
+            "image": "",
+            "name": "Lương Bá Khang",
+            "phone": "0918944965",
+            "email": "bakhang@gmail.com",
+            "password": "123456"
+        }
+    ],
+    "order": [
+        {
+            "id": "DD0000001",
+            "branch": "CN000006",
+            "customer": "KH000001",
+            "employee": "NV0000042",
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 1,
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "total": 180000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "DD0000002",
+            "branch": "CN000006",
+            "customer": "KH000002",
+            "employee": "NV0000043",
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 1,
+            "name": "Nguyễn Mạnh Hiếu",
+            "phone": "0938029266",
+            "total": 180000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "DD0000003",
+            "branch": "CN000006",
+            "customer": "KH000003",
+            "employee": "NV0000044",
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 1,
+            "name": "Cao Võ Nhựt Quan",
+            "phone": "0899515691",
+            "total": 180000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "DD0000004",
+            "branch": "CN000006",
+            "customer": "KH000004",
+            "employee": "NV000045",
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 1,
+            "name": "Nguyễn Thành Đạt",
+            "phone": "0918944965",
+            "total": 180000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "DD0000005",
+            "branch": "CN000006",
+            "customer": "KH000005",
+            "employee": "NV000048",
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 0,
+            "name": "Lương Bá Khang",
+            "phone": "0918944965",
+            "total": 180000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "DD0000006",
+            "branch": "CN000006",
+            "customer": "KH000001",
+            "employee": "NV0000042",
+            "date": "07/06/2024",
+            "time": "16:30",
+            "state": 0,
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "total": 180000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "DD0000007",
+            "branch": "CN000006",
+            "customer": "KH000001",
+            "employee": "NV0000042",
+            "date": "23/06/2024",
+            "time": "16:30",
+            "state": 1,
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "total": 180000,
+            "dateCreate": "12:07, 23/06/2024"
+        }
+    ],
+    "order_service": [
+        {
+            "order": "DD0000001",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "DD0000001",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "DD0000002",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "DD0000002",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "DD0000003",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "DD0000003",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "DD0000004",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "DD0000004",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "DD0000005",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "DD0000005",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "DD0000006",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "DD0000006",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "DD0000007",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "DD0000007",
+            "name": "DV000008",
+            "price": 70000
+        }
+    ],
+    "receipt": [
+        {
+            "id": "HD0000001",
+            "branch": "CN000006",
+            "customer": "KH000001",
+            "employee": "NV0000042",
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "tip": 10000,
+            "total": 170000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "HD0000002",
+            "branch": "CN000006",
+            "customer": "KH000002",
+            "employee": "NV0000043",
+            "name": "Nguyễn Mạnh Hiếu",
+            "phone": "0938029266",
+            "tip": 20000,
+            "total": 180000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "HD0000003",
+            "branch": "CN000006",
+            "customer": "KH000003",
+            "employee": "NV0000044",
+            "name": "Cao Võ Nhựt Quan",
+            "phone": "0899515691",
+            "tip": 0,
+            "total": 160000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "HD0000004",
+            "branch": "CN000006",
+            "customer": "KH000004",
+            "employee": "NV000045",
+            "name": "Nguyễn Thành Đạt",
+            "phone": "0918944965",
+            "tip": 50000,
+            "total": 210000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "HD0000005",
+            "branch": "CN000006",
+            "customer": "KH000005",
+            "employee": "NV000048",
+            "name": "Lương Bá Khang",
+            "phone": "0918944965",
+            "tip": 100000,
+            "total": 650000,
+            "dateCreate": "12:07, 04/06/2024"
+        },
+        {
+            "id": "HD0000006",
+            "branch": "CN000006",
+            "customer": "KH000001",
+            "employee": "NV0000042",
+            "name": "Đỗ Duy Tín",
+            "phone": "0918944965",
+            "tip": 30000,
+            "total": 620000,
+            "dateCreate": "12:07, 04/06/2024"
+        }
+    ],
+    "receipt_service": [
+        {
+            "order": "HD0000001",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "HD0000001",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "HD0000002",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "HD0000002",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "HD0000003",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "HD0000003",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "HD0000004",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "HD0000004",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "HD0000005",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "HD0000005",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "HD0000005",
+            "service": "DV000009",
+            "price": 90000
+        },
+        {
+            "order": "HD0000005",
+            "name": "DV000010",
+            "price": 30000
+        },
+        {
+            "order": "HD0000005",
+            "service": "DV000014",
+            "price": 270000
+        },
+        {
+            "order": "HD0000006",
+            "service": "DV000007",
+            "price": 90000
+        },
+        {
+            "order": "HD0000006",
+            "name": "DV000008",
+            "price": 70000
+        },
+        {
+            "order": "HD0000006",
+            "service": "DV000009",
+            "price": 90000
+        },
+        {
+            "order": "HD0000006",
+            "name": "DV000010",
+            "price": 30000
+        },
+        {
+            "order": "HD0000006",
+            "service": "DV000014",
+            "price": 270000
+        }
+    ]
+}

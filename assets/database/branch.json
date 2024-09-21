@@ -1,0 +1,92 @@
+{
+    "branch": [
+        {
+            "id": 1,
+            "image": "4rau-Q1.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 1",
+            "anothername": "4Rau Quận 1",
+            "address": "77 Yersin, Quận 1, TP.HCM",
+            "type": 1
+        },
+        {
+            "id": 2,
+            "image": "4rau-Q3.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 3",
+            "anothername": "4Rau Quận 3",
+            "address": "262c Điện Biên Phủ, P. Võ Thị Sáu, Quận 3",
+            "type": 1
+        },
+        {
+            "id": 3,
+            "image": "4rau-Q2.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 2",
+            "anothername": "4Rau Quận 2",
+            "address": "37 Xuân Thủy, P. Thảo Điền, Quận 2",
+            "type": 0
+        },
+        {
+            "id": 4,
+            "image": "4rau-Q4.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 4",
+            "anothername": "4Rau Quận 4",
+            "address": "360B Bến Vân Đồn, P.1, Quận 4",
+            "type": 0
+        },
+        {
+            "id": 5,
+            "image": "4rau-Q7.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 7",
+            "anothername": "4Rau Quận 7",
+            "address": "SCENIC VALLEY 2 - Block C002, KĐT Phú Mỹ Hưng, Quận 7",
+            "type": 0
+        },
+        {
+            "id": 6,
+            "image": "4rau-Q9.png",
+            "name": "4Rau Barber Shop - Chi nhánh Vinhomes Quận 9",
+            "anothername": "4Rau Vinhomes Quận 9",
+            "address": "S5.03, Vinhomes Grand Park, Quận 9",
+            "type": 0
+        },
+        {
+            "id": 7,
+            "image": "4rau-Q10.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận 10",
+            "anothername": "4Rau Quận 10",
+            "address": "634 Điện Biên Phủ, P.11, Quận 10",
+            "type": 0
+        },
+        {
+            "id": 8,
+            "image": "4rau-QBT.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Bình Thạnh",
+            "anothername": "4Rau Quận Bình Thạnh",
+            "address": "100 Bùi Đình Tuý, P.12, Bình Thạnh",
+            "type": 0
+        },
+        {
+            "id": 9,
+            "image": "4rau-QGV.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Gò Vấp",
+            "anothername": "4Rau Quận Gò Vấp",
+            "address": "843 Phan Văn Trị, P.7, Gò Vấp",
+            "type": 0
+        },
+        {
+            "id": 10,
+            "image": "4rau-QTB.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Tân Bình",
+            "anothername": "4Rau Quận Tân Bình",
+            "address": "81 Bình Giã, P.13, Tân Bình",
+            "type": 0
+        },
+        {
+            "id": 11,
+            "image": "4rau-QTP.png",
+            "name": "4Rau Barber Shop - Chi nhánh Quận Tân Phú",
+            "anothername": "4Rau Quận Tân Phú",
+            "address": "603a Lũy Bán Bích, Hoà Thanh, Tân Phú",
+            "type": 0
+        }
+    ]
+}

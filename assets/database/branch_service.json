@@ -1,0 +1,679 @@
+{
+    "branch_service": [
+        {
+            "service": 1,
+            "branch": 1,
+            "price": 280000
+        },
+        {
+            "service": 2,
+            "branch": 1,
+            "price": 150000
+        },
+        {
+            "service": 3,
+            "branch": 1,
+            "price": 400000
+        },
+        {
+            "service": 4,
+            "branch": 1,
+            "price": 150000
+        },
+        {
+            "service": 5,
+            "branch": 1,
+            "price": 180000
+        },
+        {
+            "service": 1,
+            "branch": 2,
+            "price": 280000
+        },
+        {
+            "service": 2,
+            "branch": 2,
+            "price": 150000
+        },
+        {
+            "service": 3,
+            "branch": 2,
+            "price": 400000
+        },
+        {
+            "service": 4,
+            "branch": 2,
+            "price": 150000
+        },
+        {
+            "service": 6,
+            "branch": 2,
+            "price": 280000
+        },
+        {
+            "service": 5,
+            "branch": 2,
+            "price": 180000
+        },
+        {
+            "service": 11,
+            "branch": 2,
+            "price": 250000
+        },
+        {
+            "service": 12,
+            "branch": 2,
+            "price": 800000
+        },
+        {
+            "service": 13,
+            "branch": 2,
+            "price": 400000
+        },
+        {
+            "service": 16,
+            "branch": 2,
+            "price": 550000
+        },
+        {
+            "service": 17,
+            "branch": 2,
+            "price": 700000
+        },
+        {
+            "service": 18,
+            "branch": 2,
+            "price": 1200000
+        },
+        {
+            "service": 19,
+            "branch": 2,
+            "price": 170000
+        },
+        {
+            "service": 7,
+            "branch": 3,
+            "price": 90000
+        },
+        {
+            "service": 8,
+            "branch": 3,
+            "price": 70000
+        },
+        {
+            "service": 9,
+            "branch": 3,
+            "price": 90000
+        },
+        {
+            "service": 10,
+            "branch": 3,
+            "price": 30000
+        },
+        {
+            "service": 14,
+            "branch": 3,
+            "price": 270000
+        },
+        {
+            "service": 15,
+            "branch": 3,
+            "price": 170000
+        },
+        {
+            "service": 12,
+            "branch": 3,
+            "price": 400000
+        },
+        {
+            "service": 13,
+            "branch": 3,
+            "price": 200000
+        },
+        {
+            "service": 16,
+            "branch": 3,
+            "price": 300000
+        },
+        {
+            "service": 20,
+            "branch": 3,
+            "price": 450000
+        },
+        {
+            "service": 21,
+            "branch": 3,
+            "price": 799000
+        },
+        {
+            "service": 22,
+            "branch": 3,
+            "price": 170000
+        },
+        {
+            "service": 23,
+            "branch": 3,
+            "price": 440000
+        },
+        {
+            "service": 7,
+            "branch": 4,
+            "price": 90000
+        },
+        {
+            "service": 8,
+            "branch": 4,
+            "price": 70000
+        },
+        {
+            "service": 9,
+            "branch": 4,
+            "price": 90000
+        },
+        {
+            "service": 10,
+            "branch": 4,
+            "price": 30000
+        },
+        {
+            "service": 14,
+            "branch": 4,
+            "price": 270000
+        },
+        {
+            "service": 15,
+            "branch": 4,
+            "price": 170000
+        },
+        {
+            "service": 12,
+            "branch": 4,
+            "price": 400000
+        },
+        {
+            "service": 13,
+            "branch": 4,
+            "price": 200000
+        },
+        {
+            "service": 16,
+            "branch": 4,
+            "price": 300000
+        },
+        {
+            "service": 20,
+            "branch": 4,
+            "price": 450000
+        },
+        {
+            "service": 21,
+            "branch": 4,
+            "price": 799000
+        },
+        {
+            "service": 22,
+            "branch": 4,
+            "price": 170000
+        },
+        {
+            "service": 23,
+            "branch": 4,
+            "price": 440000
+        },
+        {
+            "service": 7,
+            "branch": 5,
+            "price": 90000
+        },
+        {
+            "service": 8,
+            "branch": 5,
+            "price": 70000
+        },
+        {
+            "service": 9,
+            "branch": 5,
+            "price": 90000
+        },
+        {
+            "service": 10,
+            "branch": 5,
+            "price": 30000
+        },
+        {
+            "service": 14,
+            "branch": 5,
+            "price": 270000
+        },
+        {
+            "service": 15,
+            "branch": 5,
+            "price": 170000
+        },
+        {
+            "service": 12,
+            "branch": 5,
+            "price": 400000
+        },
+        {
+            "service": 13,
+            "branch": 5,
+            "price": 200000
+        },
+        {
+            "service": 16,
+            "branch": 5,
+            "price": 300000
+        },
+        {
+            "service": 20,
+            "branch": 5,
+            "price": 450000
+        },
+        {
+            "service": 21,
+            "branch": 5,
+            "price": 799000
+        },
+        {
+            "service": 22,
+            "branch": 5,
+            "price": 170000
+        },
+        {
+            "service": 23,
+            "branch": 5,
+            "price": 440000
+        },
+        {
+            "service": 7,
+            "branch": 6,
+            "price": 90000
+        },
+        {
+            "service": 8,
+            "branch": 6,
+            "price": 70000
+        },
+        {
+            "service": 9,
+            "branch": 6,
+            "price": 90000
+        },
+        {
+            "service": 10,
+            "branch": 6,
+            "price": 30000
+        },
+        {
+            "service": 14,
+            "branch": 6,
+            "price": 270000
+        },
+        {
+            "service": 15,
+            "branch": 6,
+            "price": 170000
+        },
+        {
+            "service": 12,
+            "branch": 6,
+            "price": 400000
+        },
+        {
+            "service": 13,
+            "branch": 6,
+            "price": 200000
+        },
+        {
+            "service": 16,
+            "branch": 6,
+            "price": 300000
+        },
+        {
+            "service": 20,
+            "branch": 6,
+            "price": 450000
+        },
+        {
+            "service": 21,
+            "branch": 6,
+            "price": 799000
+        },
+        {
+            "service": 22,
+            "branch": 6,
+            "price": 170000
+        },
+        {
+            "service": 23,
+            "branch": 6,
+            "price": 440000
+        },
+        {
+            "service": 7,
+            "branch": 7,
+            "price": 90000
+        },
+        {
+            "service": 8,
+            "branch": 7,
+            "price": 70000
+        },
+        {
+            "service": 9,
+            "branch": 7,
+            "price": 90000
+        },
+        {
+            "service": 10,
+            "branch": 7,
+            "price": 30000
+        },
+        {
+            "service": 14,
+            "branch": 7,
+            "price": 270000
+        },
+        {
+            "service": 15,
+            "branch": 7,
+            "price": 170000
+        },
+        {
+            "service": 12,
+            "branch": 7,
+            "price": 400000
+        },
+        {
+            "service": 13,
+            "branch": 7,
+            "price": 200000
+        },
+        {
+            "service": 16,
+            "branch": 7,
+            "price": 300000
+        },
+        {
+            "service": 20,
+            "branch": 7,
+            "price": 450000
+        },
+        {
+            "service": 21,
+            "branch": 7,
+            "price": 799000
+        },
+        {
+            "service": 22,
+            "branch": 7,
+            "price": 170000
+        },
+        {
+            "service": 23,
+            "branch": 7,
+            "price": 440000
+        },
+        {
+            "service": 7,
+            "branch": 8,
+            "price": 90000
+        },
+        {
+            "service": 8,
+            "branch": 8,
+            "price": 70000
+        },
+        {
+            "service": 9,
+            "branch": 8,
+            "price": 90000
+        },
+        {
+            "service": 10,
+            "branch": 8,
+            "price": 30000
+        },
+        {
+            "service": 14,
+            "branch": 8,
+            "price": 270000
+        },
+        {
+            "service": 15,
+            "branch": 8,
+            "price": 170000
+        },
+        {
+            "service": 12,
+            "branch": 8,
+            "price": 400000
+        },
+        {
+            "service": 13,
+            "branch": 8,
+            "price": 200000
+        },
+        {
+            "service": 16,
+            "branch": 8,
+            "price": 300000
+        },
+        {
+            "service": 20,
+            "branch": 8,
+            "price": 450000
+        },
+        {
+            "service": 21,
+            "branch": 8,
+            "price": 799000
+        },
+        {
+            "service": 22,
+            "branch": 8,
+            "price": 170000
+        },
+        {
+            "service": 23,
+            "branch": 8,
+            "price": 440000
+        },
+        {
+            "service": 7,
+            "branch": 9,
+            "price": 90000
+        },
+        {
+            "service": 8,
+            "branch": 9,
+            "price": 70000
+        },
+        {
+            "service": 9,
+            "branch": 9,
+            "price": 90000
+        },
+        {
+            "service": 10,
+            "branch": 9,
+            "price": 30000
+        },
+        {
+            "service": 14,
+            "branch": 9,
+            "price": 270000
+        },
+        {
+            "service": 15,
+            "branch": 9,
+            "price": 170000
+        },
+        {
+            "service": 12,
+            "branch": 9,
+            "price": 400000
+        },
+        {
+            "service": 13,
+            "branch": 9,
+            "price": 200000
+        },
+        {
+            "service": 16,
+            "branch": 9,
+            "price": 300000
+        },
+        {
+            "service": 20,
+            "branch": 9,
+            "price": 450000
+        },
+        {
+            "service": 21,
+            "branch": 9,
+            "price": 799000
+        },
+        {
+            "service": 22,
+            "branch": 9,
+            "price": 170000
+        },
+        {
+            "service": 23,
+            "branch": 9,
+            "price": 440000
+        },
+        {
+            "service": 7,
+            "branch": 10,
+            "price": 90000
+        },
+        {
+            "service": 8,
+            "branch": 10,
+            "price": 70000
+        },
+        {
+            "service": 9,
+            "branch": 10,
+            "price": 90000
+        },
+        {
+            "service": 10,
+            "branch": 10,
+            "price": 30000
+        },
+        {
+            "service": 14,
+            "branch": 10,
+            "price": 270000
+        },
+        {
+            "service": 15,
+            "branch": 10,
+            "price": 170000
+        },
+        {
+            "service": 12,
+            "branch": 10,
+            "price": 400000
+        },
+        {
+            "service": 13,
+            "branch": 10,
+            "price": 200000
+        },
+        {
+            "service": 16,
+            "branch": 10,
+            "price": 300000
+        },
+        {
+            "service": 20,
+            "branch": 10,
+            "price": 450000
+        },
+        {
+            "service": 21,
+            "branch": 10,
+            "price": 799000
+        },
+        {
+            "service": 22,
+            "branch": 10,
+            "price": 170000
+        },
+        {
+            "service": 23,
+            "branch": 10,
+            "price": 440000
+        },
+        {
+            "service": 7,
+            "branch": 11,
+            "price": 90000
+        },
+        {
+            "service": 8,
+            "branch": 11,
+            "price": 70000
+        },
+        {
+            "service": 9,
+            "branch": 11,
+            "price": 90000
+        },
+        {
+            "service": 10,
+            "branch": 11,
+            "price": 30000
+        },
+        {
+            "service": 14,
+            "branch": 11,
+            "price": 270000
+        },
+        {
+            "service": 15,
+            "branch": 11,
+            "price": 170000
+        },
+        {
+            "service": 12,
+            "branch": 11,
+            "price": 400000
+        },
+        {
+            "service": 13,
+            "branch": 11,
+            "price": 200000
+        },
+        {
+            "service": 16,
+            "branch": 11,
+            "price": 300000
+        },
+        {
+            "service": 20,
+            "branch": 11,
+            "price": 450000
+        },
+        {
+            "service": 21,
+            "branch": 11,
+            "price": 799000
+        },
+        {
+            "service": 22,
+            "branch": 11,
+            "price": 170000
+        },
+        {
+            "service": 23,
+            "branch": 11,
+            "price": 440000
+        }
+    ]
+}
